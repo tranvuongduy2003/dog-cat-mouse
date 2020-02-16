@@ -1,1 +1,1 @@
-This is first lesson of git session
+This is first lesson of git session.
