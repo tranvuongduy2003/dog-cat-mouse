@@ -2,7 +2,6 @@ var chalk = require('chalk');
 
 function Dog(name) {
 	this.stomach = [];
-	this.name = name;
 }
 
 Dog.prototype.eat = function(Cat) {
